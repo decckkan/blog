@@ -1,3 +1,8 @@
 # Welcome to my blog
 
-I am hoping to maintain this blog for some of my thoughts and mainly just learning to use github more.
+novice git user. I am hoping to maintain this blog for some of my thoughts and mainly just learning to use github more.
+
+## tools I wanna explore more: 
+https://yunohost.org/
+https://zammad.org/
+https://hedgedoc.org/
